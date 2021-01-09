@@ -77,7 +77,6 @@
       "quantity": 1
     }
   ],
-
   "hoteles": [
     {
       "id": 1,
@@ -90,11 +89,26 @@
       "maxGuests": 10,
       "type": "Entire apartment",
       "beds": 3,
-      "photo": "https://images.unsplash.com/photo-1561409037-c7be81613c1f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80"
+      "comentarios": [
+        { "fulano1": "Muy buen hotel" },
+        { "fulano2": "Muy buen hotel" },
+        { "fulano3": "Muy buen hotel" }
+      ],
+      "photo": "https://images.unsplash.com/photo-1561409037-c7be81613c1f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80",
+      "mas": [
+        {
+          "photo": "https://images.unsplash.com/photo-1561409037-c7be81613c1f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80"
+        },
+        {
+          "photo": "https://images.unsplash.com/photo-1561409037-c7be81613c1f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80"
+        },
+        {
+          "photo": "https://images.unsplash.com/photo-1561409037-c7be81613c1f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80"
+        }
+      ]
     },
     {
       "id": 2,
-      
       "city": "Punta Cana",
       "country": "Republica Dominicana",
       "hotelName": "Hard Rock",
@@ -108,7 +122,6 @@
     },
     {
       "id": 3,
-      
       "city": "Punta Cana",
       "country": "Republica Dominicana",
       "hotelName": "DomincanHight",
@@ -122,7 +135,6 @@
     },
     {
       "id": 4,
-      
       "city": "Santo Domingo",
       "country": "Republica Dominicana",
       "hotelName": "DomincanHight",
@@ -136,7 +148,6 @@
     },
     {
       "id": 5,
-      
       "city": "Turku",
       "country": "Finland",
       "hotelName": "DomincanHight",
@@ -150,7 +161,6 @@
     },
     {
       "id": 6,
-      
       "city": "Vaasa",
       "country": "Finland",
       "hotelName": "DomincanHight",
@@ -164,7 +174,6 @@
     },
     {
       "id": 7,
-      
       "city": "Vaasa",
       "country": "Finland",
       "hotelName": "DomincanHight",
@@ -178,7 +187,6 @@
     },
     {
       "id": 8,
-      
       "city": "Oulu",
       "country": "Finland",
       "hotelName": "DomincanHight",
@@ -192,7 +200,6 @@
     },
     {
       "id": 9,
-      
       "city": "Oulu",
       "country": "Finland",
       "hotelName": "DomincanHight",
