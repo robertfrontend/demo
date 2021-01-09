@@ -90,9 +90,9 @@
       "type": "Entire apartment",
       "beds": 3,
       "comentarios": [
-        { "fulano1": "Muy buen hotel" },
-        { "fulano2": "Muy buen hotel" },
-        { "fulano3": "Muy buen hotel" }
+        { "fulano": "Muy buen hotel" },
+        { "fulano": "Muy buen hotel" },
+        { "fulano": "Muy buen hotel" }
       ],
       "photo": "https://images.unsplash.com/photo-1561409037-c7be81613c1f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80",
       "mas": [
