@@ -227,20 +227,911 @@
   ],
 
 
-  "negocios" : [
+  "crmrestaurant": {
+  "id":"",
+  "name":"Na Popi Rooftop",
+  "description":"Un conecpto chulo y diferente.",
+  "location":"D'SANDY PLAZA, Calle Santome esq. Trinitaria, Bani, Dominican Republic.",
+  "background":"https://cdn.pixabay.com/photo/2017/08/03/21/48/drinks-2578446_960_720.jpg",
+  "logo":"https://i.postimg.cc/XYzhM07v/152804735-4333062070041770-418375909665271677-n.jpg",
+  "social":[
+    1,
+    2,
+    3,
+    4
+  ],
+  "menu":[
+    {
+      "id":"",
+      "name":"Champañas",
+      "type":"",
+      "description":"",
+      "items":[
         {
-          "nombre": "Spicy Bani",
-          "ruta": "spicy_bani",
-          "logo": "https://i.postimg.cc/pLngSwXk/spicybani.jpg",
-          "descripcion": "Marketing y Calificacion de usuario"
+          "id":"",
+          "title":"Chandon",
+          "price":"2000",
+          "description":"Lorem, ipsum dolor s...",
+          "image":"",
+          "cantidad":1
         },
         {
-          "nombre": "Carlos Moda",
-          "ruta": "carlos_moda",
-          "logo": "https://i.postimg.cc/m2PqcvMR/image.png",
-          "descripcion": "Tienda de Ropa"
+          "id":"",
+          "title":"JP Chane",
+          "price":"1400",
+          "description":"Lorem, ipsum dolor s...",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Lia",
+          "price":"460",
+          "description":"Lorem, ipsum dolor s...",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Moet Ice",
+          "price":"460",
+          "description":"Lorem, ipsum dolor s...",
+          "image":"",
+          "cantidad":1
         }
+      ]
+    },
+    {
+      "id":"",
+      "name":"Aguas",
+      "type":"",
+      "description":"",
+      "items":[
+        {
+          "id":"",
+          "title":"Agua Aloe Vera",
+          "price":"150",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Agua Dasani",
+          "price":"50",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Agua Perrier",
+          "price":"150",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Agua Tonica",
+          "price":"100",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        }
+      ]
+    },
+    {
+      "id":"",
+      "name":"Brugal",
+      "type":"",
+      "description":"",
+      "items":[
+        {
+          "id":"",
+          "title":"Brugal 1888",
+          "price":"3500",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Brugal Extra Viejo",
+          "price":"1500",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Brugal Leyenda",
+          "price":"2700",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Brugal XV",
+          "price":"1500",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Doble Reserva",
+          "price":"1800",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Especial Brugal XV",
+          "price":"900",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Especial Extra Viejo",
+          "price":"900",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        }
+      ]
+    },
+    {
+      "id":"",
+      "name":"Cervezas",
+      "type":"",
+      "description":"",
+      "items":[
+        {
+          "id":"",
+          "title":"Blue Moon",
+          "price":"200",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Brahama",
+          "price":"150",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Canita",
+          "price":"200",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Corona",
+          "price":"200",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Cortes",
+          "price":"200",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Golden Light",
+          "price":"150",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Heineken",
+          "price":"200",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Nukker",
+          "price":"200",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Modelo Negra",
+          "price":"200",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Modelo Rubia",
+          "price":"200",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Modelo One",
+          "price":"100",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Presidente Light",
+          "price":"200",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Presidente Light Lata",
+          "price":"100",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Presidente Normal",
+          "price":"100",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Presidente Normal Lata",
+          "price":"100",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Smirnoff Roja",
+          "price":"200",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Smirnoff Verde",
+          "price":"200",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Stella Aritos",
+          "price":"200",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        }
+      ]
+    },
+    {
+      "id":"",
+      "name":"Cubetazos",
+      "type":"",
+      "description":"",
+      "items":[
+        {
+          "id":"",
+          "title":"Corona",
+          "price":"850",
+          "description":"",
+          "image":"",
+          "cantidad":4
+        },
+        {
+          "id":"",
+          "title":"Modelo",
+          "price":"850",
+          "description":"",
+          "image":"",
+          "cantidad":4
+        },
+        {
+          "id":"",
+          "title":"Presidente",
+          "price":"650",
+          "description":"",
+          "image":"",
+          "cantidad":4
+        }
+      ]
+    },
+    {
+      "id":"",
+      "name":"Happy Hour",
+      "type":"",
+      "description":"",
+      "items":[
+        {
+          "id":"",
+          "title":"Jugo Mott Grande",
+          "price":"350",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Jugo Motts",
+          "price":"150",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Jugo Preparado",
+          "price":"100",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        }
+      ]
+    },
+    {
+      "id":"",
+      "name":"Refresco o Liga",
+      "type":"",
+      "description":"",
+      "items":[
+        {
+          "id":"",
+          "title":"Agua de Coco",
+          "price":"150",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Canada DRY",
+          "price":"150",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Clamato",
+          "price":"100",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Galon vino La Fuerza",
+          "price":"1200",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Gatorade",
+          "price":"150",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Granberry",
+          "price":"200",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Jugo Petti",
+          "price":"200",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Red Bull",
+          "price":"150",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Refresto Sprite",
+          "price":"100",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        }
+      ]
+    },
+    {
+      "id":"",
+      "name":"Servicios",
+      "type":"",
+      "description":"",
+      "items":[
+        {
+          "id":"",
+          "title":"Aceituna",
+          "price":"200",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Cherries",
+          "price":"200",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Mani",
+          "price":"200",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        }
+      ]
+    },
+    {
+      "id":"",
+      "name":"Shot",
+      "type":"",
+      "description":"",
+      "items":[
+        {
+          "id":"",
+          "title":"Shot Fire Ball",
+          "price":"200",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Shot Patron",
+          "price":"250",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Shot Stolinaya",
+          "price":"200",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Shot Tequila",
+          "price":"200",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        }
+      ]
+    },
+    {
+      "id":"",
+      "name":"Tequilla Botella",
+      "type":"",
+      "description":"",
+      "items":[
+        {
+          "id":"",
+          "title":"Don Julio 1942",
+          "price":"25000",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Don Julio Reposado",
+          "price":"7300",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Patron Tequila",
+          "price":"5500",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        }
+      ]
+    },
+    {
+      "id":"",
+      "name":"Trago Vodka",
+      "type":"",
+      "description":"",
+      "items":[
+        {
+          "id":"",
+          "title":"Trago Vodka",
+          "price":"350",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        }
+      ]
+    },
+    {
+      "id":"",
+      "name":"Trago Tequila",
+      "type":"",
+      "description":"",
+      "items":[
+        {
+          "id":"",
+          "title":"Tequila",
+          "price":"0",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Trago Patron",
+          "price":"400",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        }
+      ]
+    },
+    {
+      "id":"",
+      "name":"Tragos Preparados",
+      "type":"",
+      "description":"",
+      "items":[
+        {
+          "id":"",
+          "title":"Blue Joy",
+          "price":"250",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Cuba Libre",
+          "price":"250",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Destornillador",
+          "price":"250",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Extra onza de alcohol",
+          "price":"75",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Extra popi",
+          "price":"350",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Margarita",
+          "price":"250",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Margarita Corona",
+          "price":"450",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Mojito",
+          "price":"250",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Piña Colada",
+          "price":"250",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Popi Night",
+          "price":"250",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Sangria",
+          "price":"250",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Sex on the beach",
+          "price":"250",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Tubo de Sangria",
+          "price":"1500",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        }
+      ]
+    },
+    {
+      "id":"",
+      "name":"Trago Ron",
+      "type":"",
+      "description":"",
+      "items":[
+        {
+          "id":"",
+          "title":"Trago Extra Viejo",
+          "price":"200",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Trago Leyenda",
+          "price":"200",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Trago XV",
+          "price":"200",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        }
+      ]
+    },
+    {
+      "id":"",
+      "name":"Vodka",
+      "type":"",
+      "description":"",
+      "items":[
+        {
+          "id":"",
+          "title":"Adsolut",
+          "price":"2000",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Grese Goose",
+          "price":"3000",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Stolichanaya",
+          "price":"2100",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Tito`s",
+          "price":"2100",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        }
+      ]
+    },
+    {
+      "id":"",
+      "name":"Whisky",
+      "type":"",
+      "description":"",
+      "items":[
+        {
+          "id":"",
+          "title":"Baileys",
+          "price":"2400",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Black Label",
+          "price":"4000",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Black WHite",
+          "price":"1500",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Buchanans",
+          "price":"3900",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Buchanans Master",
+          "price":"4900",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Chivas Regal 12 años",
+          "price":"3900",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Chivas Regal 18 años",
+          "price":"6900",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Doble Black",
+          "price":"4500",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Fire Ball",
+          "price":"2900",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Genesis Very Special",
+          "price":"4300",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Gold",
+          "price":"7300",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Gold Label 18 años",
+          "price":"9500",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Old Parr",
+          "price":"3900",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        },
+        {
+          "id":"",
+          "title":"Old Parr 18",
+          "price":"7000",
+          "description":"",
+          "image":"",
+          "cantidad":1
+        }
+      ]
+    }
   ]
+
+  }
 
 
 }
